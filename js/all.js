@@ -1,1 +1,0 @@
-"use strict";console.log("buttons"),console.log("model");var number=1;

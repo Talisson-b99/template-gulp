@@ -31,6 +31,10 @@ function gulpJs() {
 
 gulp.task('alljs', gulpJs)
 
+function pluginsJs() {
+  return gulp.src(['', ''])
+}
+
 
 // tarefa para a função que compila o sass
 gulp.task('sass', compilaSass)
